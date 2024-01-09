@@ -8,7 +8,7 @@ We invite the Platynereis community to submit abstracts for the [**Platynereis S
 <br>
 <br>
 # Sessions #
-  Invited speakers
+  **Invited speakers**
 - **Analysis of the Platynereis genome**<br>
   Oleg Simakov (University of Vienna)<br>
   Kevin Nzumbi Mutemi (EMBL)<br>
