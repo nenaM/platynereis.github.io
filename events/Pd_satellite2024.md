@@ -43,7 +43,8 @@ We invite the Platynereis community to submit abstracts for the [**Platynereis S
   Conrad Helm (Georg-August-University Göttingen)<br>
 <br>
 <br>
-# Registration and abstract submission #
+# Registration #
+Abstract submissions are closed, but you can still register 
 Registration for the main EURO-EVO-DEVO meeting is mandatory to participate in the Platynereis Satellite meeting. Register for the main meeting and to the Satellite meeting <a style="font-weight:bold" href='https://www.helsinki.fi/en/conferences/euroevodevo-2024' target="_blank">HERE</a>.<br>
 <br>
 If you wish to give a talk at the Platynereis Satellite meeting, please click <a style="font-weight:bold" href='https://forms.gle/swKwsBNb8P7VsnTTA' target="_blank">HERE</a> to submit an abstract.<br>
