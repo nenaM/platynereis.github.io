@@ -54,7 +54,7 @@ Registration for the main EURO-EVO-DEVO meeting is mandatory to participate in t
 <br>
 If you wish to give a short talk at the Platynereis Satellite meeting, please click <a style="font-weight:bold" href='https://forms.gle/swKwsBNb8P7VsnTTA' target="_blank">HERE</a> to submit an abstract.<br>
 <br>
-Abstract submission deadline: 15.02.2024
+Abstract submission deadline: 15.02.2024<br>
 <br>
 For questions, please contact Gabriele Andreatta: gabriele.andreatta@univie.ac.at<br>
 <br>
