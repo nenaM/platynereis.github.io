@@ -4,7 +4,7 @@ title: Platynereis Satellite Meeting 2024
 permalink: /events/Pd_satellite2024_2/
 ---
 
-We invite the Platynereis community to submit abstracts for the **Platynereis Satellite Meeting** that will take place on June 24-25th, right before the EuroEvoDevo Meeting in Finland (June 25-28th). Attendees need to register for the main meeting, and select Platynereis Satellite while registering. 
+We invite the Platynereis community to submit abstracts for the **Platynereis Satellite Meeting** that will take place on June 24-25th, right before the EuroEvoDevo2024 Meeting in Finland (June 25-28th). Attendees need to register for the main meeting, and select Platynereis Satellite while registering. 
 <br>
 <br>
 # Sessions #
